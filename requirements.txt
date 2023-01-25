@@ -1,0 +1,9 @@
+azure-functions
+azure-functions-durable
+psycopg2-binary
+pandas
+sqlalchemy
+python-decouple
+pybind11
+azure-identity
+azure-keyvault-secrets
